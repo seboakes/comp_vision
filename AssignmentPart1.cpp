@@ -1,3 +1,7 @@
+//ooooh look at me i can use Github - Seb, 2018
+
+
+
 //inlcude libraries
 #include <stdio.h>
 #include "opencv2/objdetect/objdetect.hpp"
